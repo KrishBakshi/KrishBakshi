@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋Hi, I'm Krish Bakshi<br>📍 Data Scientist | Machine Learning Enthusiast | Innovator<br><br>🔭 What I Do:<br><br>Design and deploy data pipelines using tools like Azure Databricks, PySpark, and BigQuery.<br>Build predictive models (XGBoost, ARIMA, SARIMA) and LLM-based applications.<br>Develop user-friendly interfaces with tools like Gradio and Flask.<br>📌 Projects I’m Proud Of:<br><br>🚀 Sales Forecasting with XGBoost & PySpark: Achieved 90% accuracy and 10% MAPE with efficient training on CUDA.<br>🏠 Rent Prediction App: A Flask-based ANN application with 85% accuracy.<br>❤️ Cardiovascular Risk Prediction: 88% accuracy and 92% precision ML solution.<br>🌱 Skills & Technologies:<br>Python | SQL | C/C++ | TensorFlow | PyTorch | Databricks | Spark | Scikit-Learn | PySpark | Git | MLflow<br><br>📚 Currently completing a Bachelor’s in Computer Engineering at Savitribai Phule Pune University.
+# 💫 About Me:
+👋 Hi, I'm Krish Bakshi<br>📍 Data Scientist | Deep Learning Enthusiast | Generative AI Innovator<br><br>🔭 What I Do:<br><br>Design and deploy data pipelines with tools like Azure Databricks, PySpark, and BigQuery.<br>Build predictive models (XGBoost, ARIMA, SARIMA) and Generative AI applications using Hugging Face Transformers and Diffusers.<br>Develop user-friendly interfaces using Gradio and Flask.<br>🎨 Projects I’m Proud Of:<br><br>🌟 Sales Forecasting: Achieved 90% accuracy and 10% MAPE using XGBoost & PySpark, with CUDA-optimized training in 7 seconds.<br>🏠 Rent Prediction App: An ANN-powered Flask app predicting rent prices with 85% accuracy.<br>❤️ Cardiovascular Risk Prediction: Achieved 88% accuracy and 92% precision with ML-based predictions.<br>✨ Hugging Face Diffusers Models: Worked on fine-tuning Stable Diffusion for custom image generation tasks.<br>🌱 Skills & Technologies:<br>Python | SQL | C/C++ | TensorFlow | PyTorch | Hugging Face | Databricks | Spark | Scikit-Learn | PySpark | Git | MLflow | Stable Diffusion | Generative AI<br><br>📚 Currently completing a Bachelor’s in Computer Engineering at Savitribai Phule Pune University.
 
 
 ## 🌐 Socials:
@@ -29,3 +30,4 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KrishBakshi&icon=0&color=0)](https://visitcount.itsvg.in)
+
