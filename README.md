@@ -30,19 +30,16 @@ Here are some ideas to get you started:
         <li>❤️ <strong>Cardiovascular Risk Prediction</strong>: Achieved 88% accuracy and 92% precision with ML-based predictions.</li>
         <li>✨ <strong>Hugging Face Diffusers Models</strong>: Worked on fine-tuning <strong>Stable Diffusion</strong> for custom image generation tasks.</li>
     </ul>
-<br>
-
+    
 ### 🌱 Skills & Technologies:<br>
 **Languages:** Python, SQL, C/C++  
 **Libraries/Frameworks:** TensorFlow, PyTorch, Hugging Face, Scikit-Learn, PySpark  
 **Tools:** Databricks, MLflow, Git, Stable Diffusion, Generative AI 
-
-<br><br>📚 Currently completing a Bachelor’s in Computer Engineering at Savitribai Phule Pune University.
+<br>📚 Currently completing a Bachelor’s in Computer Engineering at Savitribai Phule Pune University.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://github.com/KrishBakshi) 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/KrishBakshi)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishbakshi23@gmail.com)
 
 # 💻 Tech Stack:
