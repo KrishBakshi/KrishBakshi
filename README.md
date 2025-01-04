@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 # 💫 About Me:
 👋 Hi, I'm Krish Bakshi<br>
 📍Data Scientist | Deep Learning Enthusiast | Generative AI Innovator<br><br>
-### 🔭 What I Do:
+
+## 🔭 What I Do:<br>
  <ul>
         <li>Design and deploy <strong>data pipelines</strong> with tools like <strong>Azure Databricks</strong>, <strong>PySpark</strong>, and <strong>BigQuery</strong>.</li>
         <li>Build <strong>predictive models</strong> (XGBoost, ARIMA, SARIMA) and <strong>Generative AI applications</strong> using <strong>Hugging Face Transformers</strong> and <strong>Diffusers</strong>.</li>
