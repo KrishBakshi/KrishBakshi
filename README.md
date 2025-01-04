@@ -29,7 +29,6 @@ Here are some ideas to get you started:
         <li>🌟 <strong>Sales Forecasting</strong>: Achieved 90% accuracy and 10% MAPE using <strong>XGBoost & PySpark</strong>, with CUDA-optimized training in 7 seconds.</li>
         <li>🏠 <strong>Rent Prediction App</strong>: An ANN-powered Flask app predicting rent prices with 85% accuracy.</li>
         <li>❤️ <strong>Cardiovascular Risk Prediction</strong>: Achieved 88% accuracy and 92% precision with ML-based predictions.</li>
-        
         <li>✨ <strong>Hugging Face Diffusers Models</strong>: Worked on fine-tuning <strong>Stable Diffusion</strong> for custom image generation tasks.</li>
     </ul>
 <br>
