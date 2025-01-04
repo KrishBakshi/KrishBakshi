@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 <br>
 
 ### 🌱 Skills & Technologies:<br>
-<p>Python | SQL | C/C++ | TensorFlow | PyTorch | Hugging Face | Databricks | Spark | Scikit-Learn | PySpark | Git | MLflow | Stable Diffusion | Generative AI</p>
+**Languages:** Python, SQL, C/C++  
+**Libraries/Frameworks:** TensorFlow, PyTorch, Hugging Face, Scikit-Learn, PySpark  
+**Tools:** Databricks, MLflow, Git, Stable Diffusion, Generative AI 
 
 <br><br>📚 Currently completing a Bachelor’s in Computer Engineering at Savitribai Phule Pune University.
 
