@@ -15,8 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋 Hi, I'm Krish Bakshi<br>📍 Data Scientist | Deep Learning Enthusiast | Generative AI Innovator<br><br>🔭 What I Do:<br>Design and deploy data pipelines with tools like Azure Databricks, PySpark, and BigQuery.<br>Build predictive models (XGBoost, ARIMA, SARIMA) and Generative AI applications using Hugging Face Transformers and Diffusers.<br>Develop user-friendly interfaces using Gradio and Flask.<br><br>🎨 Projects I’m Proud Of:<br>🌟 Sales Forecasting: Achieved 90% accuracy and 10% MAPE using XGBoost & PySpark, with CUDA-optimized training in 7 seconds.<br>🏠 Rent Prediction App: An ANN-powered Flask app predicting rent prices with 85% accuracy.<br>❤️ Cardiovascular Risk Prediction: Achieved 88% accuracy and 92% precision with ML-based predictions.<br>✨ Hugging Face Diffusers Models: Worked on fine-tuning Stable Diffusion for custom image generation tasks.<br>🌱 Skills & Technologies:<br>Python | SQL | C/C++ | TensorFlow | PyTorch | Hugging Face | Databricks | Spark | Scikit-Learn | PySpark | Git | MLflow | Stable Diffusion | Generative AI<br><br>📚 Currently completing a Bachelor’s in Computer Engineering at Savitribai Phule Pune University.
+# 👋 Hi, I'm Krish Bakshi  
+📍 **Data Scientist | Deep Learning Enthusiast | Generative AI Innovator**
 
+---
+
+## 🔭 What I Do:
+- 🚀 Design and deploy **data pipelines** with tools like **Azure Databricks**, **PySpark**, and **BigQuery**.
+- 🤖 Build **predictive models** (XGBoost, ARIMA, SARIMA) and **Generative AI applications** using **Hugging Face Transformers** and **Diffusers**.
+- 🛠️ Develop **user-friendly interfaces** using **Gradio** and **Flask**.
+
+---
+
+## 🎨 Projects I’m Proud Of:
+- 🌟 **Sales Forecasting**: Achieved 90% accuracy and 10% MAPE using **XGBoost & PySpark**, with CUDA-optimized training in 7 seconds.
+- 🏠 **Rent Prediction App**: An ANN-powered Flask app predicting rent prices with 85% accuracy.
+- ❤️ **Cardiovascular Risk Prediction**: Achieved 88% accuracy and 92% precision with ML-based predictions.
+- 🤖 **Generative AI for 3D Assets**: Created AI images using a fine-tuned **Stable Diffusion model** and converted them into 3D GLB files with **Trellis**.
+- 🩺 **Medical Chatbot**: Built an AI assistant for cardiology consultations using LLMs.
+- ✨ **Hugging Face Diffusers Models**: Worked on fine-tuning **Stable Diffusion** for custom image generation tasks.
+
+---
+
+## 🌱 Skills & Technologies:
+**Languages:** Python, SQL, C/C++  
+**Libraries/Frameworks:** TensorFlow, PyTorch, Hugging Face, Scikit-Learn, PySpark  
+**Tools:** Databricks, MLflow, Git, Stable Diffusion, Generative AI  
+
+---
+
+## 📚 Education:
+**Savitribai Phule Pune University**  
+- Bachelor’s in Computer Engineering (2022–2025)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://github.com/KrishBakshi) 
