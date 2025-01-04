@@ -23,7 +23,8 @@ Here are some ideas to get you started:
         <li>Develop <strong>user-friendly interfaces</strong> using <strong>Gradio</strong> and <strong>Flask</strong>.</li>
     </ul>
 <br>
-🎨 Projects I’m Proud Of:<br><br>
+
+### 🎨 Projects I’m Proud Of:<br><br>
 <ul>
         <li>🌟 <strong>Sales Forecasting</strong>: Achieved 90% accuracy and 10% MAPE using <strong>XGBoost & PySpark</strong>, with CUDA-optimized training in 7 seconds.</li>
         <li>🏠 <strong>Rent Prediction App</strong>: An ANN-powered Flask app predicting rent prices with 85% accuracy.</li>
