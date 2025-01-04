@@ -22,8 +22,7 @@ Here are some ideas to get you started:
         <li>Build <strong>predictive models</strong> (XGBoost, ARIMA, SARIMA) and <strong>Generative AI applications</strong> using <strong>Hugging Face Transformers</strong> and <strong>Diffusers</strong>.</li>
         <li>Develop <strong>user-friendly interfaces</strong> using <strong>Gradio</strong> and <strong>Flask</strong>.</li>
     </ul>
-<br>
-
+    
 ### 🎨 Projects I’m Proud Of:<br>
 <ul>
         <li>🌟 <strong>Sales Forecasting</strong>: Achieved 90% accuracy and 10% MAPE using <strong>XGBoost & PySpark</strong>, with CUDA-optimized training in 7 seconds.</li>
