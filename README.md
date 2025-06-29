@@ -55,7 +55,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"/>
 
-<p align="centre"> ![](https://komarev.com/ghpvc/?username=KrishBaksh)</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=heyhexadecimal&style=flat-square&color=6366f1" alt="views" />
+</div>
 
 <!--
 # 📊 GitHub Stats:
