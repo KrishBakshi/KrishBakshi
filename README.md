@@ -4,10 +4,10 @@
 
 -->
 # 👋 Hi, I'm Krish Bakshi<br>
-📍Data Scientist | Applied AI Engineer<br><br>
+📍Data Scientist | Applied AI Engineer                               ![](https://komarev.com/ghpvc/?username=KrishBaksh)<br><br>   
 🌐 Portfolio: <a href="https://krishbakshi-portfolio.vercel.app/" target="_blank">krishbakshi-portfolio.vercel.app</a> <br>
 📬 Reach me at: krishbakshi23@gmail.com<br>
-![](https://komarev.com/ghpvc/?username=KrishBaksh)
+
 
 ![5253d737-520a-4b1e-89fe-24ee7833ab0d](https://github.com/user-attachments/assets/3bf7b545-c56d-4d7f-a215-988096d8f4eb)
 
