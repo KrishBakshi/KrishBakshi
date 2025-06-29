@@ -4,7 +4,7 @@
 
 -->
 # 👋 Hi there, I'm Krish Bakshi<br>
-📍Data Scientist | Applied AI Engineer <p align="right">![](https://komarev.com/ghpvc/?username=KrishBaksh)</p><br><br>   
+ <p align="right">![](https://komarev.com/ghpvc/?username=KrishBaksh)</p><br><br>   
 🌐 Portfolio: <a href="https://krishbakshi-portfolio.vercel.app/" target="_blank">krishbakshi-portfolio.vercel.app</a> <br>
 📬 Reach me at: krishbakshi23@gmail.com<br>
 
@@ -14,6 +14,7 @@
 
 ### 💫 About Me::<br>
  <ul>
+         <li>📍Data Scientist  |  Applied AI Engineer</li>
         <li>I build cool stuff using neural networks, ml and data.</li>
          <li> I am <strong>JLPT N3</strong> 😁.
         <li>Have built <strong> few predictive models</strong> using (XGBoost, ARIMA, SARIMA) and <strong>Generative AI applications</strong> using <strong>Hugging Face Transformers</strong> and <strong>Diffusers</strong>.</li>
