@@ -51,7 +51,7 @@
 
 ```Big Data```  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="50"/> <img src="https://dbdb.io/media/logos/bigquery.svg" alt="BigQuery" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="80"/> <img src="https://dbdb.io/media/logos/bigquery.svg" alt="BigQuery" width="50"/>
 
 ```Deployment & Cloud```  
 
