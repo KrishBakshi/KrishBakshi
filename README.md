@@ -11,16 +11,17 @@
 ![5253d737-520a-4b1e-89fe-24ee7833ab0d](https://github.com/user-attachments/assets/3bf7b545-c56d-4d7f-a215-988096d8f4eb)
 
 
-### 💫 About Me: >
+### 💫 About Me:
  <ul>
          <li> Data Scientist/Applied AI Engineer</li>
         <li>I build cool stuff using neural networks, ml and data.</li>
          <li> I am <strong>JLPT N3</strong> 😁.
         <li>occasional <strong>full-stack dev</strong>, cause I like to be creative.</li>
    </ul>
-        🌐 Portfolio: <a href="https://krishbakshi-portfolio.vercel.app/" target="_blank">krishbakshi-portfolio.vercel.app</a> <br>
-        📬 Reach me at: krishbakshi23@gmail.com<br>
-        ![](https://komarev.com/ghpvc/?username=KrishBaksh)
+   🌐 Portfolio: <a href="https://krishbakshi-portfolio.vercel.app/" target="_blank">krishbakshi-portfolio.vercel.app</a> 
+   📬 Reach me at: krishbakshi23@gmail.com
+  
+        
     
     
 ## ⚙️ Tech Stack
@@ -52,7 +53,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"/>
 
-
+<p align="centre"> ![](https://komarev.com/ghpvc/?username=KrishBaksh)</p>
 
 <!--
 # 📊 GitHub Stats:
