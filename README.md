@@ -18,7 +18,7 @@
          <li> I am <strong>JLPT N3</strong> 😁.
         <li>occasional <strong>full-stack dev</strong>, cause I like to be creative.</li>
    </ul>
-        🌐 Portfolio: <a href="https://krishbakshi-portfolio.vercel.app/" target="_blank">krishbakshi-portfolio.vercel.app</a>
+        🌐 Portfolio: <a href="https://krishbakshi-portfolio.vercel.app/" target="_blank">krishbakshi-portfolio.vercel.app</a> <br>
         📬 Reach me at: krishbakshi23@gmail.com<br>
     
     
