@@ -50,10 +50,12 @@
 -->
 
 ```Big Data```  
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="30"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Google_BigQuery_Logo.svg" alt="BigQuery" width="30"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="50"/> 
+<img src="https://dbdb.io/media/logos/bigquery.svg" alt="BigQuery" width="50"/>
 
 ```Deployment & Cloud```  
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="30"/> 
 <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/icon-white.svg" alt="FastAPI" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30"/> 
