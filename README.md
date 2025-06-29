@@ -4,8 +4,6 @@
 
 -->
 # 👋 Hi there, I'm Krish Bakshi<br>  
-🌐 Portfolio: <a href="https://krishbakshi-portfolio.vercel.app/" target="_blank">krishbakshi-portfolio.vercel.app</a> <br>
-📬 Reach me at: krishbakshi23@gmail.com<br>
   
 
 
@@ -20,6 +18,8 @@
          <li> I am <strong>JLPT N3</strong> 😁.
         <li>Have built <strong> few predictive models</strong> using (XGBoost, ARIMA, SARIMA) and <strong>Generative AI applications</strong> using <strong>Hugging Face Transformers</strong> and <strong>Diffusers</strong>.</li>
         <li>occasional <strong>full-stack dev</strong>, cause I like to be creative.</li>
+        <li>🌐 Portfolio: <a href="https://krishbakshi-portfolio.vercel.app/" target="_blank">krishbakshi-portfolio.vercel.app</a></li>
+        <li>📬 Reach me at: krishbakshi23@gmail.com<br></li>
     </ul>
     
 ## ⚙️ Tech Stack
