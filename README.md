@@ -54,11 +54,13 @@
 
 ```Deployment & Cloud```  
 
+![](https://skillicons.dev/icons?i=flask,fastapi,docker,gcp)
+<!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="30"/> 
 <img src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/icon-white.svg" alt="FastAPI" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="30"/>
-
+-->
 ```Version Control```  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"/>
