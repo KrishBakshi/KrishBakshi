@@ -6,9 +6,9 @@
 # 👋 Hi there, I'm Krish Bakshi<br>  
   
 
+![5253d737-520a-4b1e-89fe-24ee7833ab0d](https://github.com/user-attachments/assets/6c9c81df-4974-4355-b38f-5053ee2a172c)
 
 
-![5253d737-520a-4b1e-89fe-24ee7833ab0d](https://github.com/user-attachments/assets/3bf7b545-c56d-4d7f-a215-988096d8f4eb)
 
 
 ## 💫 About Me:
