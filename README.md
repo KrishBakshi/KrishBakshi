@@ -13,7 +13,7 @@
 ![5253d737-520a-4b1e-89fe-24ee7833ab0d](https://github.com/user-attachments/assets/3bf7b545-c56d-4d7f-a215-988096d8f4eb)
 
 
-### 💫 About Me: <p align="right">![](https://komarev.com/ghpvc/?username=KrishBaksh)</p> <br>
+### 💫 About Me: <p align="right">![](https://komarev.com/ghpvc/?username=KrishBaksh)</p>
  <ul>
          <li> Data Scientist/Applied AI Engineer</li>
         <li>I build cool stuff using neural networks, ml and data.</li>
@@ -24,13 +24,13 @@
     
 ## ⚙️ Tech Stack
 
-**Programming Languages**  
+```Programming Languages```  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30"/>
 
-**Machine Learning & Deep Learning**  
+```Machine Learning & Deep Learning```  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="30"/> 
