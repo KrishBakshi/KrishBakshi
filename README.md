@@ -61,10 +61,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="30"/>
 -->
-```Version Control```  
+```Version Control``` 
+
+![](https://skillicons.dev/icons?i=git,github)
+<!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"/>
-
+-->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KrishBakshi&style=flat-square&color=6366f1" alt="views" />
 </div>
