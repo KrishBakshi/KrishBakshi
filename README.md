@@ -56,7 +56,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=heyhexadecimal&style=flat-square&color=6366f1" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=KrishBakshi&style=flat-square&color=6366f1" alt="views" />
 </div>
 
 <!--
