@@ -16,11 +16,11 @@
          <li> Data Scientist/Applied AI Engineer</li>
         <li>I build cool stuff using neural networks, ml and data.</li>
          <li> I am <strong>JLPT N3</strong> 😁.
-        <li>Have built <strong> few predictive models</strong> using (XGBoost, ARIMA, SARIMA) and <strong>Generative AI applications</strong> using <strong>Hugging Face Transformers</strong> and <strong>Diffusers</strong>.</li>
         <li>occasional <strong>full-stack dev</strong>, cause I like to be creative.</li>
-        <li>🌐 Portfolio: <a href="https://krishbakshi-portfolio.vercel.app/" target="_blank">krishbakshi-portfolio.vercel.app</a></li>
-        <li>📬 Reach me at: krishbakshi23@gmail.com<br></li>
-    </ul>
+   </ul>
+        🌐 Portfolio: <a href="https://krishbakshi-portfolio.vercel.app/" target="_blank">krishbakshi-portfolio.vercel.app</a>
+        📬 Reach me at: krishbakshi23@gmail.com<br>
+    
     
 ## ⚙️ Tech Stack
 
