@@ -3,8 +3,8 @@
 **KrishBakshi/KrishBakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-# 👋 Hi, I'm Krish Bakshi<br>
-📍Data Scientist | Applied AI Engineer                               ![](https://komarev.com/ghpvc/?username=KrishBaksh)<br><br>   
+# 👋 Hi there, I'm Krish Bakshi<br>
+📍Data Scientist | Applied AI Engineer <p align="right">![](https://komarev.com/ghpvc/?username=KrishBaksh)</p><br><br>   
 🌐 Portfolio: <a href="https://krishbakshi-portfolio.vercel.app/" target="_blank">krishbakshi-portfolio.vercel.app</a> <br>
 📬 Reach me at: krishbakshi23@gmail.com<br>
 
