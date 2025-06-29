@@ -20,7 +20,7 @@
    </ul>
    <p>
    🌐 Portfolio: <a href="https://krishbakshi-portfolio.vercel.app/" target="_blank">krishbakshi-portfolio.vercel.app</a> <br>
-   📬 Reach me at: krishbakshi23@gmail.com
+   📬 Reach me at: ***krishbakshi23@gmail.com***
    </p>
   
         
