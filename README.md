@@ -15,7 +15,7 @@
 
 ### 💫 About Me::<br>
  <ul>
-         <li>📍Data Scientist  |  Applied AI Engineer</li>
+         <li> Data Scientist/Applied AI Engineer</li>
         <li>I build cool stuff using neural networks, ml and data.</li>
          <li> I am <strong>JLPT N3</strong> 😁.
         <li>Have built <strong> few predictive models</strong> using (XGBoost, ARIMA, SARIMA) and <strong>Generative AI applications</strong> using <strong>Hugging Face Transformers</strong> and <strong>Diffusers</strong>.</li>
