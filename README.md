@@ -19,7 +19,7 @@
         <li>occasional <strong>full-stack dev</strong>, cause I like to be creative.</li>
    </ul>
    <p>
-   🌐 Portfolio: <a href="https://krishbakshi-portfolio.vercel.app/" target="_blank">krishbakshi-portfolio.vercel.app</a> <br>
+   🌐 Portfolio: <a href="https://www.krishb.tech/" target="_blank">krishb.tech</a> <br>
    📬 Reach me at:  <a href="mailto:krishbakshi23@gmail.com">krishbakshi23@gmail.com</a>
    </p>
   
