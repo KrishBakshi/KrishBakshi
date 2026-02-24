@@ -9,7 +9,7 @@
 ![5253d737-520a-4b1e-89fe-24ee7833ab0d](https://github.com/user-attachments/assets/6c9c81df-4974-4355-b38f-5053ee2a172c)
 
 -->
-
+<p> Data Scientist/Applied AI Engineer | Neural networks, ml and data | JLPT N3</p>
 <!--
 ## 💫 About Me:
  <ul>
