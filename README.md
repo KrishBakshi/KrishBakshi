@@ -21,7 +21,7 @@
 -->
    <p>
    🌐 Portfolio: <a href="https://www.krishb.tech/" target="_blank">krishb.tech</a> <br>
-   📬 Reach me at:  <a href="mailto:krishbakshi23@gmail.com">krishbakshi23@gmail.com</a>
+   📬 Reach me at:  <a href="mailto:business.krishb@gmail.com">business.krishb@gmail.com</a>
    </p>
 
 <div align="center">
