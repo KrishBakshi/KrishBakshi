@@ -20,8 +20,8 @@
    </ul>
 -->
    <p>
-   🌐 Portfolio: <a href="https://www.krishb.tech/" target="_blank">krishb.tech</a> <br>
-   📬 Reach me at:  <a href="mailto:work.krishb@gmail.com">work.krishb@gmail.com</a>
+   🌐 Portfolio: <a href="https://www.krishbakshi.com/" target="_blank">krishbakshi.com</a> <br>
+   📬 Reach me at:  <a href="mailto:krishrajeshbakshi@gmail.com">krishrajeshbakshi@gmail.com</a>
    </p>
 
 <div align="center">
